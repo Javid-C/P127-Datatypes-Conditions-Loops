@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127First\P127First\bin\Debug\netcoreapp3.1\P127First.exe
+C:\Users\Lenovo\source\repos\P127First\P127First\bin\Debug\netcoreapp3.1\P127First.deps.json
+C:\Users\Lenovo\source\repos\P127First\P127First\bin\Debug\netcoreapp3.1\P127First.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127First\P127First\bin\Debug\netcoreapp3.1\P127First.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127First\P127First\bin\Debug\netcoreapp3.1\P127First.dll
+C:\Users\Lenovo\source\repos\P127First\P127First\bin\Debug\netcoreapp3.1\P127First.pdb
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.dll
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.pdb
+C:\Users\Lenovo\source\repos\P127First\P127First\obj\Debug\netcoreapp3.1\P127First.genruntimeconfig.cache
